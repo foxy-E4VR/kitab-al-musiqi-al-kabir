@@ -1,4 +1,4 @@
-# 📖 Kitab Al-Musiqi-al-Kabīr
+# 📖 Kitab Al-Musīqī-al-Kabīr
 ## Islamic Golden Age Acoustics System for Minecraft Bedrock
 
 > *"The Grand Book of Music"* — named after Al-Farabi's 10th-century masterpiece on music theory
